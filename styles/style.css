@@ -1,0 +1,13 @@
+.navbar-brand, .titles{
+  font-family: 'Black Han Sans', sans-serif;
+}
+.imgIphone{
+  max-width: 300px;
+}
+footer a:visited, footer a:link{
+  color: gray;
+}
+footer a:hover{
+  color: white;
+  transition: .4s;
+}
